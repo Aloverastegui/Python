@@ -1,2 +1,0 @@
-# Python
-Comandos en Python
